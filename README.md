@@ -1,16 +1,23 @@
-## Hi there 👋
+# Universidad Tecnológica Nacional
 
-<!--
-**MelanyWolanink/MelanyWolanink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# TECNICATURA EN PROGRAMACIÓN A DISTANCIA
 
-Here are some ideas to get you started:
+# Trabajo integrador de MATEMÁTICA y PROGRAMACIÓN I en Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programa que simula compuertas AND, OR, NOT, NAND, NOR Y XOR
+
+## Integrantes
+
+- Agustina Aguilera
+- Eugenia Vogt
+- Melany Wolanink
+- Mauro Zavatti
+- Pablo Vera
+
+## Profesor de Matemática
+
+- Sergio Maldonado
+
+## Profesor de Programación I
+
+- Sebastián Bruselario
